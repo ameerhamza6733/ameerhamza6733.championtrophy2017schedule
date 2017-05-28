@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mySwipeRefreshLayoutScro"
+    android:layout_height="match_parent">
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+           android:layout_width="match_parent"
+           android:layout_height="800dp"
+
+           android:background="#ffffff"
+           android:orientation="vertical">
+
+           <TextView
+               android:id="@+id/live_scr_team1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_below="@+id/live_src_mchDesc"
+               android:layout_centerHorizontal="true"
+               android:layout_marginTop="22dp"
+               android:text="" />
+
+           <TextView
+               android:id="@+id/live_scr_team_2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignLeft="@+id/live_scr_team1"
+               android:layout_alignStart="@+id/live_scr_team1"
+               android:layout_below="@+id/live_scr_team1"
+               android:layout_marginTop="32dp"
+               android:text="" />
+
+           <TextView
+               android:id="@+id/live_src_team1_"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_above="@+id/live_scr_team_2"
+               android:layout_alignParentEnd="true"
+               android:layout_alignParentRight="true"
+               android:layout_marginEnd="36dp"
+               android:layout_marginRight="36dp"
+               android:text="" />
+
+           <TextView
+               android:id="@+id/live_scr_team2_"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignBottom="@+id/live_scr_team_2"
+               android:layout_alignLeft="@+id/live_src_team1_"
+               android:layout_alignStart="@+id/live_src_team1_"
+               android:text="" />
+
+           <TextView
+               android:id="@+id/tose_status"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+
+               android:layout_alignLeft="@+id/imageView_team2"
+               android:layout_alignStart="@+id/imageView_team2"
+               android:layout_below="@+id/imageView_team2"
+               android:layout_marginRight="16dp"
+               android:layout_marginTop="40dp"
+               android:text="" />
+
+           <TextView
+               android:id="@+id/crr"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+
+               android:layout_alignLeft="@+id/imageView_team2"
+               android:layout_alignStart="@+id/imageView_team2"
+               android:layout_below="@+id/tose_status"
+               android:layout_marginTop="56dp"
+               android:layout_toLeftOf="@+id/rrr"
+               android:text="" />
+
+           <TextView
+               android:id="@+id/live_src_prevOvers"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_alignLeft="@+id/crr"
+               android:layout_alignStart="@+id/crr"
+               android:layout_below="@+id/crr"
+               android:layout_marginRight="16dp"
+               android:layout_marginTop="48dp"
+               android:layout_toEndOf="@+id/imageView_team2"
+               android:layout_toRightOf="@+id/imageView_team2"
+               android:text="" />
+
+           <TextView
+               android:id="@+id/live_src_match_status"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+
+               android:layout_above="@+id/rrr"
+               android:layout_alignLeft="@+id/crr"
+               android:layout_alignStart="@+id/crr"
+               android:layout_marginBottom="16dp"
+               android:layout_marginRight="16dp"
+               android:text="" />
+
+           <TextView
+               android:id="@+id/rrr"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignBottom="@+id/crr"
+               android:layout_alignEnd="@+id/tose_status"
+               android:layout_alignRight="@+id/tose_status" />
+
+           <TextView
+               android:id="@+id/live_src_mchDesc"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_alignParentEnd="true"
+               android:layout_alignParentRight="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginTop="8dp"
+               android:paddingLeft="32dp"
+               android:text="" />
+
+           <ImageView
+
+               android:id="@+id/imageView_team1"
+               android:layout_width="50dp"
+               android:layout_height="50dp"
+               android:layout_alignParentLeft="true"
+               android:layout_alignParentStart="true"
+               android:layout_below="@+id/live_src_mchDesc"
+               android:layout_marginLeft="30dp"
+               android:layout_marginStart="30dp" />
+
+           <ImageView
+               android:id="@+id/imageView_team2"
+               android:layout_width="50dp"
+               android:layout_height="50dp"
+               android:layout_alignLeft="@+id/imageView_team1"
+               android:layout_alignStart="@+id/imageView_team1"
+               android:layout_below="@+id/imageView_team1" />
+
+           <com.google.android.gms.ads.NativeExpressAdView
+               android:id="@+id/adView"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_below="@+id/live_src_prevOvers"
+               android:layout_marginTop="16dp"
+               ads:adSize="280x80"
+
+               ads:adUnitId="ca-app-pub-2042383951427959/2733616620" />
+
+           <LinearLayout
+
+               android:layout_below="@id/adView"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="vertical">
+               <TextView
+                   android:padding="15dp"
+
+                   android:id="@+id/striker1"
+                   android:layout_width="match_parent"
+
+                   android:layout_height="match_parent" />
+               <TextView
+                   android:padding="16dp"
+                   android:layout_width="match_parent"
+                   android:id="@+id/stiker2"
+
+                   android:layout_height="match_parent" />
+               <TextView
+                   android:padding="16dp"
+                   android:layout_width="match_parent"
+                   android:id="@+id/bowler"
+                   android:layout_height="match_parent" />
+           </LinearLayout>
+
+       </RelativeLayout>
+   </ScrollView>
+</android.support.v4.widget.SwipeRefreshLayout>

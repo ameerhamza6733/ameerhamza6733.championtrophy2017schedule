@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/nav_tell_toyour_frined"
+
+            android:icon="@mipmap/ic_share_black_24dp"
+            android:title="Share This app" />
+        <item
+
+            android:id="@+id/nav_update_app"
+
+            android:icon="@mipmap/ic_update_black_24dp"
+            android:title="Chaking for Updates" />
+        <item
+
+            android:id="@+id/nav_rate_us"
+
+            android:icon="@mipmap/ic_star_black_24dp"
+            android:title="Rate us" />
+        <item
+
+            android:id="@+id/nav_rate_about_us"
+
+            android:icon="@mipmap/ic_info_outline_black_24dp"
+            android:title="About us" />
+        <item
+
+            android:id="@+id/nav_send_feedback"
+
+            android:icon="@mipmap/ic_feedback_black_24dp"
+            android:title="Send FeedBack" />
+
+    </group>
+
+
+
+</menu>

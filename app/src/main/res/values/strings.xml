@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">champion trophy 2017</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Rate me</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="conn_live">http://newv130.blogspot.com/2017/04/httpc247.html</string>
+
+
+    <string name="conn_shaudle">http://newv130.blogspot.com/2017/04/icc-shaudles.html</string>
+    <string name="conn_video">http://newv130.blogspot.com/2017/04/icc-videos.html</string>
+    <string name="mINT_AD_ID"></string>
+
+    <string name="title_activity_exoplayer_fullscreen">ExoplayerFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

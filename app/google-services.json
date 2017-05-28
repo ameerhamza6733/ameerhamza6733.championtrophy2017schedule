@@ -1,0 +1,347 @@
+{
+  "project_info": {
+    "project_number": "348487876574",
+    "firebase_url": "https://admob-app-id-5489821027.firebaseio.com",
+    "project_id": "admob-app-id-5489821027",
+    "storage_bucket": "admob-app-id-5489821027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:4c0f10352c1175b5",
+        "android_client_info": {
+          "package_name": "com.ameerhamza6733.urdunews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:2de4163b8afef5f8",
+        "android_client_info": {
+          "package_name": "com.ameerhamza6733.latest.newsUpdatesPakistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:1fcea33b5a720c1a",
+        "android_client_info": {
+          "package_name": "com.ameerhamza6733.mobileappprojectphase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-jp61i6b3pn6rkh741oveo599einssjv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ameerhamza6733.mobileappprojectphase2",
+            "certificate_hash": "f3744fd82d93f96a0007f8d7049a473fc55d2fdf"
+          }
+        },
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:7c955cee73516053",
+        "android_client_info": {
+          "package_name": "com.ameerhamza6733.happynewyear2017shayariinhindiurdu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:dd92176f819735bf",
+        "android_client_info": {
+          "package_name": "com.valentinesdaygiftscards2017.happyvalentinesday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:15e416dc63ced800",
+        "android_client_info": {
+          "package_name": "ameerhamza6733.psl2017live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:003b41aad63fc311",
+        "android_client_info": {
+          "package_name": "com.valentinesdaygiftscards2017.valentinesDayPhoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:25758fa4379f8d01",
+        "android_client_info": {
+          "package_name": "com.IPL2017.ipl2017schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:c8f1c925d4fc3c9e",
+        "android_client_info": {
+          "package_name": "com.ameerhamza6733.ipl2017schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348487876574:android:e5f9e024c8a85280",
+        "android_client_info": {
+          "package_name": "ameerhamza6733.championtrophy2017schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348487876574-d0up09m4d6115qmcesr17rujcj5568bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ameerhamza6733.championtrophy2017schedule",
+            "certificate_hash": "f3744fd82d93f96a0007f8d7049a473fc55d2fdf"
+          }
+        },
+        {
+          "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWt_QVkIdrE2ewPrpyJguiPThL2YEkDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348487876574-saoaro2t84pdiak598imb998dnu6klqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

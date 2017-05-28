@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+   <android.support.v4.widget.SwipeRefreshLayout
+       android:layout_width="match_parent"
+       android:id="@+id/myliveScoreSwipeTorefash"
+       android:layout_height="match_parent">
+       <WebView
+
+           android:id="@+id/web1"
+
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignRight="@+id/web_view_adView"
+           android:layout_alignEnd="@+id/web_view_adView"
+           android:layout_alignParentLeft="true"
+           android:layout_alignParentStart="true">
+
+       </WebView>
+       <ProgressBar
+           android:id="@+id/pro"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_centerHorizontal="true"
+           android:layout_centerVertical="true"
+           android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" />
+
+   </android.support.v4.widget.SwipeRefreshLayout>
+    <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/web_view_adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        ads:adUnitId="ca-app-pub-2042383951427959/6028820224"
+
+
+        ads:adSize="280x80"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+    </com.google.android.gms.ads.NativeExpressAdView>
+
+
+</RelativeLayout>
